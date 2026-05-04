@@ -1,0 +1,6 @@
+{
+  "name": "Texture & Forensic Image Analysis",
+  "description": "An intelligent image analysis platform for material classification and cybersecurity forensic detection (Steganography, Tampering, Deepfakes).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["image_analysis", "forensics"]
+}
